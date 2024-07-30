@@ -1,18 +1,22 @@
-# flappy_bird_game
+# Flappy Bird Game in Flutter
 
-This is a Flappy Bird game built in Flutter using the Flame engine. If you want to know how to create games with Flutter & Flame, visit our YouTube channel to watch the complete Tutorial.
+This project is a clone of the popular Flappy Bird game, developed using Flutter. It features smooth animations, responsive touch controls, and a simple yet addictive gameplay mechanic. The game is built with Dart and leverages Flutter's powerful widget framework for a seamless cross-platform experience.
 
-Link: https://youtu.be/zcs8qRBRz7w?si=e4UV_Lf3dbyE9Yj8
+### Key Features
+- **Smooth Animations**: Ensured by Flutter's rendering engine.
+- **Responsive Touch Controls**: Provides a fluid gaming experience.
+- **Addictive Gameplay**: Simple tap mechanics to navigate the bird through obstacles.
+- **Cross-Platform**: Runs on both Android and iOS devices.
 
-## Getting Started
+### Tools and Technologies Used
+- **Flutter**: For UI development and cross-platform capabilities.
+- **Dart**: Programming language for Flutter.
+- **Custom Widgets**: For game elements and animations.
 
-Once you have downloaded this project, you will find all the assets used with in the game.
+### Languages and Tools
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Here are a few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, please take a look at the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to explore the code and contribute to the project!
