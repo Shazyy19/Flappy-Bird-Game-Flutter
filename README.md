@@ -1,22 +1,41 @@
-# Flappy Bird Game in Flutter
+![image](https://github.com/user-attachments/assets/913ac6e2-be6b-43cd-a85f-f20e9f97582c)![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+<h1 align="center">Hi 👋, I'm Syed Shahzaib Haider Rizvi</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbA5XS1-gCNrRFR-tP0m0TL49pL1DfTiNzlw&s">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shazyy19&label=Profile%20views&color=0e75b6&style=flat" alt="shazyy19" /> </p>
 
-This project is a clone of the popular Flappy Bird game, developed using Flutter. It features smooth animations, responsive touch controls, and a simple yet addictive gameplay mechanic. The game is built with Dart and leverages Flutter's powerful widget framework for a seamless cross-platform experience.
+<p align="left"> <a href="https://twitter.com/shazy19" target="blank"><img src="https://img.shields.io/twitter/follow/shazy19?logo=twitter&style=for-the-badge" alt="shazy19" /></a> </p>
 
-### Key Features
-- **Smooth Animations**: Ensured by Flutter's rendering engine.
-- **Responsive Touch Controls**: Provides a fluid gaming experience.
-- **Addictive Gameplay**: Simple tap mechanics to navigate the bird through obstacles.
-- **Cross-Platform**: Runs on both Android and iOS devices.
+- 🔭 I’m currently working on [Flutter](https://flutter.dev/)
 
-### Tools and Technologies Used
-- **Flutter**: For UI development and cross-platform capabilities.
-- **Dart**: Programming language for Flutter.
-- **Custom Widgets**: For game elements and animations.
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/syed-shahzaib-haider-rizvi-376851241/](https://www.linkedin.com/in/syed-shahzaib-haider-rizvi-376851241/)
 
-### Languages and Tools
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- 💬 Ask me about **Flutter**
 
-Feel free to explore the code and contribute to the project!
+- 📄 Know about my experiences [https://www.linkedin.com/in/syed-shahzaib-haider-rizvi-376851241/](https://www.linkedin.com/in/syed-shahzaib-haider-rizvi-376851241/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shazy19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shazy19" height="30" width="40" /></a>
+<a href="https://fb.com/shazyy19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shazyy19" height="30" width="40" /></a>
+</p>
+
+## Fluppy Game Design
+
+The Fluppy game is developed using Flutter, providing a smooth and engaging gameplay experience across both iOS and Android platforms. Flutter's rich set of widgets and its performance optimizations make it an ideal choice for creating visually appealing and responsive game interfaces.
+
+## Languages and Tools Used
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSozZT08pQdSpWS3nxkygjFHA9yBzCn0pJAThp9JoG5GSfBE2OTQJ8Wc08nrQFkH_Iauo8&usqp=CAU" alt="Flutter" width="100" height="100"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH2F2_tQbwqCpRG5-MmvwjkaOZ3xbQaA4zvdrKm2gh4mNkwuRXfc0_ICKLeGe4qRU2LZk&usqp=CAU" alt="Dart" width="100" height="100"/>
+  <img src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="GitHub" width="100" height="100"/>
+</p>
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Shazyy19/Fluppy-Game-Flutter.git
